@@ -1,9 +1,9 @@
 ![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
 <h1><strong> Hi there, I'm Alexander Rengkat 👋 </strong></h1>
 
-<h2>🎨 Front-End Developer | 🔬 Master's in Chemistry & Education | 📺 YouTuber</h2>
+<h2>🎨 Full-Stack Developer | 🔬 Master's in Chemistry & Education | 📺 YouTuber</h2>
 
-<h3>I'm a passionate Front-End Developer with proficiency in a variety of web technologies. I specialize in creating delightful and responsive user interfaces with:</h3>
+<h3>I'm a passionate Full-Stack Developer with proficiency in a variety of web technologies. I specialize in creating delightful and responsive user interfaces with:</h3>
 <h3>
   <ul>
     <li>HTML/CSS</li>
@@ -12,7 +12,9 @@
     <li>TypeScript</li>
     <li>Next.js</li>
     <li>Tilwind CSS</li>
-    <li>Chakra UI</li>
+    <li>Node.js</li>
+    <li>Express</li>
+    <li>MongoDB</li>
   </ul>
 </h3>
 
