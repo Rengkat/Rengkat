@@ -99,12 +99,13 @@ const alexander: Developer = {
 
 ## 💼 Experience Highlights
 
-| Period | Role | Company |
-|--------|------|---------|
-| 2024 – 2025 | 🎓 Web Development Instructor | Orphanage Care Foundation × World Bank / FGN |
-| 2023 – 2024 | 🚀 Full-Stack Developer | NOSA, Jos |
-| 2021 – 2023 | 💻 Frontend Developer | Yoris Africa Enterprise, Lagos |
-| 2020 – 2021 | 🗞️ Frontend Developer | Headline News, Lagos |
+| Period | Role | Company | Key Tech |
+|--------|------|---------|----------|
+| Feb 2026 – Present | 🎓 Full-Stack Web Developer & Coding Instructor | Bethesda Home and School for the Blind | React, Node.js, PWA, IndexedDB, Screen Readers, AI APIs |
+| Jun 2024 – Feb 2026 | 🚀 Software Developer (Contract) | Orphanage Care Foundation (OCHVCAF), Kaduna | Next.js, Node.js, Express, MongoDB, PostgreSQL, Redux |
+| Mar 2023 – Jun 2024 | 💻 Full-Stack Developer (Contract) | NOSA, Jos | Next.js, TypeScript, Node.js, Express, MongoDB, Docker |
+| May 2021 – Mar 2023 | 🎨 Front-End Developer | Yoris Africa Enterprise, Lagos | React, Next.js, TypeScript, Redux Toolkit, WebSockets |
+| Feb 2020 – Apr 2021 | 🗞️ Front-End Developer (Intern) | Headline News, Lagos | React, Next.js, TypeScript, Sanity CMS, WordPress |
 
 <br/>
 
