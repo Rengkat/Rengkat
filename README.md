@@ -73,22 +73,19 @@ const alexander: Developer = {
 
 <br/>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rengkat&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=06b6d4&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rengkat&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=06b6d4&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rengkat&theme=merko&hide_border=true&background=0d1117&ring=0d9488&fire=06b6d4&currStreakLabel=ffffff" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rengkat&theme=merko&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ffffff&layout=compact&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rengkat&theme=merko&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ffffff&layout=compact&langs_count=8" width="48%" alt="Top Languages"/>
 </div>
 
 <br/>
-
----
 
 ## 🏆 GitHub Trophies
 
